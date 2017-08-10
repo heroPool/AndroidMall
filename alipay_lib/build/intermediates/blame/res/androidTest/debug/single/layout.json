@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\alipay_title.xml",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\alipay_title.xml"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\alipay.xml",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\alipay.xml"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_alert.xml",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_alert.xml"
+    }
+]

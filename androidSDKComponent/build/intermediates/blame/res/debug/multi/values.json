@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "E:\\Android\\Githubsample\\AndroidY\\androidSDKComponent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 34,
+                    "endOffset": 85
+                },
+                "from": {
+                    "file": "E:\\Android\\Githubsample\\AndroidY\\androidSDKComponent\\build\\intermediates\\exploded-aar\\AndroidY\\androidSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 34,
+                        "endOffset": 85
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 90,
+                    "endColumn": 56,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "E:\\Android\\Githubsample\\AndroidY\\androidSDKComponent\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 56,
+                        "endOffset": 68
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 40,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "E:\\Android\\Githubsample\\AndroidY\\androidSDKComponent\\build\\intermediates\\exploded-aar\\AndroidY\\androidSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 40,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 39,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "E:\\Android\\Githubsample\\AndroidY\\androidSDKComponent\\build\\intermediates\\exploded-aar\\AndroidY\\androidSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 39,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 43,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "E:\\Android\\Githubsample\\AndroidY\\androidSDKComponent\\build\\intermediates\\exploded-aar\\AndroidY\\androidSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 43,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 38,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "E:\\Android\\Githubsample\\AndroidY\\androidSDKComponent\\build\\intermediates\\exploded-aar\\AndroidY\\androidSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 38,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 57,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "E:\\Android\\Githubsample\\AndroidY\\androidSDKComponent\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 58,
+                        "endOffset": 71
+                    }
+                }
+            }
+        ]
+    }
+]

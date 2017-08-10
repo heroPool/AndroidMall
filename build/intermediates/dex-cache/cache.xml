@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\libs\alipay.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0668f39e7366ea40bcac00660fbe0ea7c424f00e">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\alipay_348c7a20cb9d5f81d7c58477b491a9ed34373c86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\libs\weibosdkcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="06e990ea2d7b7ccd30cea6c5367314d7314d9f40">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\weibosdkcore_3139ca5cd6b13117d20467dea54e48bf93c874fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\build\intermediates\exploded-aar\AndroidY\eventBus\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f08a526991040950f1a0ad8fc9974b0ab8f90672">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\AndroidY-eventBus-unspecified_7a2a0bd65e4b5ed24adaedf02f6ce2cd40309701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="612ce0b45e5d70383d8548bcfe6c8c5b1271617d">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\Msc_3293dcaee3e4f88817d775325d8d0f23885e4d84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\libs\pushservice-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2ff1ada5696df276e1e17ee4fad92aa22c251890">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\pushservice-3.2.0_6959cdfb32bbdddce48fec46d4accd450762097c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\build\intermediates\exploded-aar\AndroidY\androidSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df1e377bb011f7586f038f2261265db5cf4cd648">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\AndroidY-androidSDK-unspecified_40e3cda2220d4c00b3ff24176876fbbdcb703b50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\build\intermediates\exploded-aar\AndroidY\androidSDKComponent\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="83ede88c6ca2497a5ad0c038effffe9b3952d847">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\AndroidY-androidSDKComponent-unspecified_95e65b4143a59e5612a4b17af5513ff3077f81a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\build\intermediates\exploded-aar\AndroidY\androidSDK\unspecified\jars\libs\commons-httpclient-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="41b7555734b86f6c545c7b909dbfb117dd892f8d">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\commons-httpclient-3.0.1_dcfe9aa0f262c0e7e974b99626436b5ba393218a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidsdk\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\support-v4-19.1.0_4d2552b76c58fa13893ee12b3c25d15e66c8cc93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_10be11b8dc19c8f220994359bd527b74b955ae5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\libs\UPPayAssistEx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="06ff45e2f35db618401097141bb18a8c79994616">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\UPPayAssistEx_7c8f3604302391ad6af09e56144916fe6ec5dd0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\libs\commons-httpclient-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\commons-httpclient-3.0.1_d0a21e6ca4ee2716b3c32bdd28edad3309e71e2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\libammsdk_635fe605dff0ec161e9d0bf131ed6ef2e4ddbbf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\libs\UPPayPluginExPro.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95b3d8d188aee8dd3d18c25b4ec46bbcdd93824d">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\UPPayPluginExPro_904f948a0c654aea730d4ce33445f6feafa3b89e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\libs\umeng_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f215292edd3cea48bea39811c7bc814a09d4481a">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\umeng_sdk_c180b5d67df45bf67c476bd45cb59951172ef23a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Githubsample\AndroidY\android\build\intermediates\exploded-aar\AndroidY\alipay_lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3f5595b2ae1ea9ce8c5e540bea82ad05ed25a0b4">
+        <dex dex="E:\Android\Githubsample\AndroidY\android\build\intermediates\pre-dexed\debug\AndroidY-alipay_lib-unspecified_50fdf336b530c23d2c481ed3dc41b23c0a60dac0.jar" />
+    </item>
+
+</items>

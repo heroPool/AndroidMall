@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\refresh_button.xml",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\refresh_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_button_colorlist.xml",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_button_colorlist.xml"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_button_submit.xml",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_button_submit.xml"
+    }
+]

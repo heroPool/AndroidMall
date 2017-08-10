@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\alipay_lib\\unspecified\\res\\drawable-hdpi-v4\\title.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_cut_line.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\alipay_lib\\unspecified\\res\\drawable-hdpi-v4\\dialog_cut_line.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg_click.9.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\alipay_lib\\unspecified\\res\\drawable-hdpi-v4\\dialog_bg_click.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_push.9.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\alipay_lib\\unspecified\\res\\drawable-hdpi-v4\\refresh_push.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh.9.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\alipay_lib\\unspecified\\res\\drawable-hdpi-v4\\refresh.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\expired_568h.jpg",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\src\\main\\res\\drawable-hdpi\\expired_568h.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tuitional_bg.jpg",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\src\\main\\res\\drawable-hdpi\\tuitional_bg.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_background.xml",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\src\\main\\res\\drawable-hdpi\\splash_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_background.9.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\alipay_lib\\unspecified\\res\\drawable-hdpi-v4\\title_background.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dingwei_icon2x.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\androidSDK\\unspecified\\res\\drawable-hdpi-v4\\dingwei_icon2x.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_bg.9.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\alipay_lib\\unspecified\\res\\drawable-hdpi-v4\\popup_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_split_v.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\alipay_lib\\unspecified\\res\\drawable-hdpi-v4\\dialog_split_v.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg_normal.9.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\alipay_lib\\unspecified\\res\\drawable-hdpi-v4\\dialog_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_split_h.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\alipay_lib\\unspecified\\res\\drawable-hdpi-v4\\dialog_split_h.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\closed.jpg",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\src\\main\\res\\drawable-hdpi\\closed.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\exploded-aar\\AndroidY\\androidSDKComponent\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Githubsample\\AndroidY\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_img_bg.jpg",
+        "source": "E:\\Android\\Githubsample\\AndroidY\\android\\src\\main\\res\\drawable-hdpi\\profile_img_bg.jpg"
+    }
+]
